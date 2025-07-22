@@ -11,6 +11,7 @@ Former assistant manager turned aspiring full-stack developer. With a background
 
 ---
 
+[About](/about/)
 [Projects](/projects/)  
 [Resume](/resume/)  
 [Contact](/contact/)
