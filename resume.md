@@ -6,7 +6,7 @@ permalink: /resume/
 # Resume
 
 You can download my resume here:  
-[Download Resume PDF](assets/garrett-resume.pdf)
+[Download Resume PDF](LaunchCode Resume- 2025.pdf)
 
 ## Experience
 
