@@ -11,17 +11,6 @@ Former assistant manager turned aspiring full-stack developer. With a background
 
 ---
 
-## My Values
-
-- **Honesty** – I believe truth builds trust.
-- **Willingness to Learn** – I'm always growing, always improving.
-- **Confidence** – I back my code and my ideas.
-- **Kindness** – I lead with respect and positivity.
-- **Humility** – I take feedback seriously and own my mistakes.
-- **Sincerity** – I mean what I say and do what I mean.
-
----
-
 [Projects](/projects/)  
 [Resume](/resume/)  
 [Contact](/contact/)
