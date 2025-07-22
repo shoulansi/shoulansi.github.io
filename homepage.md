@@ -3,7 +3,6 @@ layout: page
 title: Home
 permalink: /
 ---
-<link rel="stylesheet" href="/styles.css">
 
 # Hi, I'm Garrett
 
