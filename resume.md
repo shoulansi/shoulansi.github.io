@@ -5,8 +5,8 @@ permalink: /resume/
 ---
 # Resume
 
-You can download my resume here:  
-[Download Resume PDF](/garrett-resume.pdf)
+You can view my resume here:  
+[View Resume PDF](/garrett-resume.pdf)
 
 ## Experience
 
