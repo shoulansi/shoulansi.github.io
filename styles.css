@@ -1,0 +1,25 @@
+body {
+  background-color: #f9fafb;
+  color: #333333;
+  font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;
+  line-height: 1.6;
+}
+
+a {
+  color: #3b82f6;
+  text-decoration: none;
+}
+
+a:hover {
+  text-decoration: underline;
+}
+
+h1, h2, h3 {
+  color: #1f2937;
+}
+
+header, footer {
+  padding: 1rem;
+  background-color: #e5e7eb;
+  text-align: center;
+}
